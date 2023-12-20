@@ -34,5 +34,3 @@ const nextLevelDeveloper: JuniorDeveloper | NextDeveloper = {
   leaderShipExperience: 3,
   level: Level.mid,
 };
-
-// InterSection
