@@ -1,4 +1,4 @@
-// ts union
+/* // ts union
 enum Level {
   junior = "Junior",
   mid = "Mid",
@@ -34,3 +34,4 @@ const nextLevelDeveloper: JuniorDeveloper | NextDeveloper = {
   leaderShipExperience: 3,
   level: Level.mid,
 };
+ */

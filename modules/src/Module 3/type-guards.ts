@@ -1,5 +1,5 @@
 // Typescript Type Guards
-
+/* 
 type twoNumbers = string | number;
 // key Guards
 const addTwoNumber = (num1: twoNumbers, num2: twoNumbers): twoNumbers | void => {
@@ -90,4 +90,4 @@ const getAnimal = (animal: Animal) => {
 
 const animal1 = new Dog('Dog','gew gew');
 const animal2 = new Cat('Cat','mew mew');
-getAnimal(animal2);
+getAnimal(animal2); */

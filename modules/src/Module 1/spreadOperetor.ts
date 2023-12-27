@@ -1,4 +1,4 @@
-// ts spread operator
+/* // ts spread operator
 const myFriends = ['rezwan', 'rahim', 'rupak'];
 const newFriends = ['fahim', 'karim'];
 myFriends.push(...newFriends);
@@ -11,4 +11,4 @@ function friends(...friends: string[]): void {
     return friends.forEach((friend) => console.log(`Hi ${friend}`))
 }
 
-friends('rezwan', 'rahim', 'rupak');
+friends('rezwan', 'rahim', 'rupak'); */

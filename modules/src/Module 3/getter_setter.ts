@@ -1,4 +1,4 @@
-class BankAccount {
+/* class BankAccount {
     id: number;
     name: string;
     private _balance: number;
@@ -24,4 +24,4 @@ class BankAccount {
 
 const newAccount = new BankAccount(1, 'Rezwan Rahim', 20);
 newAccount.newBalance = 20;
-console.log(newAccount.balance);
+console.log(newAccount.balance); */

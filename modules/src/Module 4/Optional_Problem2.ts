@@ -5,7 +5,7 @@ Then, create an interface for a person with properties name and age, and use the
 Finally, create an object that satisfies the Person interface and log it to the console. */
 
 
-type StringOrNumber<T> = T extends string ? string : number;
+/* type StringOrNumber<T> = T extends string ? string : number;
 
 function generator<T extends string | number>(type: T, personName: string, personAge: StringOrNumber<T>) {
     interface IPerson {
@@ -22,3 +22,4 @@ function generator<T extends string | number>(type: T, personName: string, perso
 }
 
 generator(23, 'rezwan', 23); 
+ */

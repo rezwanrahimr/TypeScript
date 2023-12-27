@@ -1,4 +1,4 @@
-// ts null
+/* // ts null
 const messageSender = (message: unknown) => {
   if (message === null) {
     return console.log("Message Was Null");
@@ -27,3 +27,4 @@ function neverReturn(message: string): never {
 }
 
 neverReturn("Tor kono somossa ?");
+ */

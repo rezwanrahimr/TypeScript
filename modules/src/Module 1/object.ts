@@ -1,6 +1,6 @@
 // ts object
 
-const userInformation: {
+/* const userInformation: {
     father: 'mozaffar hossain'; // Literal Types
     readonly name: string; // ts readonly
     age: number;
@@ -13,3 +13,4 @@ const userInformation: {
 }
 
 
+ */
