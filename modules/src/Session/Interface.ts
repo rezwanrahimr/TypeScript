@@ -1,5 +1,5 @@
 // TypeScript Interface
-interface IUser {
+/* interface IUser {
     name: string;
     location: string;
 }
@@ -7,4 +7,4 @@ interface IUser {
 const user: IUser = {
     name: "rezwan rahim",
     location: "Feni"
-}
+} */
