@@ -38,5 +38,5 @@
     }
 
     const user1 = getUser({name:"Rezwan"});
-    const user2 = getUser({name:"Rezwan",role:""});
+    const user2 = getUser({name:"Rezwan",role:"admin"});
 }
